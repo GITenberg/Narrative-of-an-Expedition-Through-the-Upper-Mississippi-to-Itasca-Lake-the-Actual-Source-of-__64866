@@ -1,0 +1,29 @@
+_repo: Narrative-of-an-Expedition-Through-the-Upper-Mississippi-to-Itasca-Lake-the-Actual-Source-of-__64866
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schoolcraft, Henry Rowe
+    aliases:
+    - Schoolcraft, Henry R. (Henry Rowe)
+    - Colcraft, Henry Rowe
+    birthdate: 1793
+    deathdate: 1864
+    gutenberg_agent_id: '3850'
+    url: http://www.gutenberg.org/2009/agents/3850
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Schoolcraft
+description: ''
+gutenberg_issued: '2021-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64866'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Narrative of an Expedition Through the Upper Mississippi to Itasca Lake, the
+  Actual Source of this River
+
+  Embracing an Exploratory Trip Through the St. Croix and Burntwood (or Broule) Rivers'
+url: http://www.gutenberg.org/ebooks/64866
